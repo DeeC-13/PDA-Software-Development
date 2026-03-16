@@ -1,0 +1,32 @@
+Task,Start Date,Duration,Dependencies
+Requirements Analysis,2026-03-09,5,
+Interview Relevant Parties,2026-03-09,3,
+Collate Information,2026-03-12,2,
+Analyse Information and Create Report,2026-03-13,1,
+,,,
+System Design,2026-03-16,5,Requirements Analysis
+Create Structure Chart,2026-03-16,0.5,System Design
+Create Use Case Analysis,2026-03-16,0.5,System Design
+,,,
+Detailed Design,2026-03-17,4,System Design
+Create Wireframes and Layout Templates,2026-03-18,2,Detailed Design
+,,,
+Implementation Planning,2026-03-19,2,Detailed Design
+Create Teams and Allocate Work,2026-03-19,2,Detailed Design
+,,,
+Code App and Develop Final Version,2026-03-23,10,Detailed Design
+Integrate New App with Existing Systems,2026-03-30,5,Detailed Design
+,,,
+Testing Plan,2026-04-06,5,Implementation Planning
+Create a Test Plan,2026-04-06,0.5,Testing Plan
+Debug and Run Functional Tests,2026-04-06,4.5,Testing Plan
+Collate Test Reports and Produce Final Report,2026-04-13,3,Testing Plan
+,,,
+Deployment Planning,2026-04-14,2,Testing Plan
+Meet with Client and Arrange Deployment Date,2026-04-15,1,Deployment Planning
+Get Client Approval Before Launch,2026-04-18,0.5,Deployment Planning
+Start Full Deployment on all Servers,2026-04-18,4.5,Deployment Planning
+,,,
+Maintenance,2026-04-25,2,Deployment Planning
+Arrange Maintenance Schedule with Client,2026-04-25,1,Deployment Planning
+Sign off and Invoice for Completed Work,2026-04-26,1,Maintenance
